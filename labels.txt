@@ -1,0 +1,6 @@
+0 Syringes
+1 Gloves
+2 Medicines
+3 Mask
+4 Blades
+5 Paper
